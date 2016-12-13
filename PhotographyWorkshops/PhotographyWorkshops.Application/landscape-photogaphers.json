@@ -1,0 +1,62 @@
+[
+  {
+    "FirstName": "Dani",
+    "LastName": "Vanness",
+    "CameraMake": "Nikon",
+    "LensesCount": 4
+  },
+  {
+    "FirstName": "Dante",
+    "LastName": "Ketter",
+    "CameraMake": "Pentax",
+    "LensesCount": 1
+  },
+  {
+    "FirstName": "Fidel",
+    "LastName": "Sato",
+    "CameraMake": "Nikon",
+    "LensesCount": 1
+  },
+  {
+    "FirstName": "Gena",
+    "LastName": "Gering",
+    "CameraMake": "Pentax",
+    "LensesCount": 5
+  },
+  {
+    "FirstName": "Joane",
+    "LastName": "Claflin",
+    "CameraMake": "Nikon",
+    "LensesCount": 1
+  },
+  {
+    "FirstName": "Lajuana",
+    "LastName": "Mcclean",
+    "CameraMake": "Nikon",
+    "LensesCount": 2
+  },
+  {
+    "FirstName": "Melodee",
+    "LastName": "Shepler",
+    "CameraMake": "Nikon",
+    "LensesCount": 1
+  },
+  {
+    "FirstName": "Rita",
+    "LastName": "Bucklew",
+    "CameraMake": "Nikon",
+    "LensesCount": 1
+  },
+  {
+    "FirstName": "Rosalie",
+    "LastName": "Ragsdale",
+    "CameraMake": "Canon",
+    "LensesCount": 2
+  },
+  {
+    "FirstName": "Tifany",
+    "LastName": "Stpeter",
+    "CameraMake": "Pentax",
+    "LensesCount": 1
+  }
+]
